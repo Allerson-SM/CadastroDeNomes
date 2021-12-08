@@ -1,2 +1,2 @@
 # Cadastro de nomes
-### Aplicação em C# para cadastro de nomes utilizando métodos como forma de navegação entre o menu e lista para armazenar as informações.
+### Aplicação console em C# para cadastro de nomes. Realizada algumas mudanças para estudos de conceitos como SOLID e futuramente para design patterns.
